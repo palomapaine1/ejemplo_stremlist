@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1xOasAvMU7xRY9F0TQ8zBAKH2stN9rMFH
 """
 
-import streamlist as st
-st.tittle('mi primera aplicacion en streamlist')
+import streamlit as st
+st.tittle('mi primera aplicacion en streamlit')
 st.heat('este es un encabezado')
 st.subheader('este es un subencabezado')
 st.write('esta es una introduccion a streamlit, donde exploraremos como construir aplicaciones interactivas.')
