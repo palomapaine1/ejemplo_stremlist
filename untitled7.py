@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import streamlit as st
-st.tittle('mi primera aplicacion en streamlit')
-st.heat('este es un encabezado')
+st.title('mi primera aplicacion en streamlit')
+st.header('este es un encabezado')
 st.subheader('este es un subencabezado')
 st.write('esta es una introduccion a streamlit, donde exploraremos como construir aplicaciones interactivas.')
